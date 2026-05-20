@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0ea5e9,100:38bdf8&height=260&section=header&text=Anunay%20Yadav&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Student%20Developer%20•%20Web%20+%20AI%20+%20ML&descAlignY=58&descSize=22&descColor=e2e8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0ea5e9,100:38bdf8&height=260&section=header&text=Anunay%20Yadav&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Student%20Developer%20•%20Web%20AI%20ML&descAlignY=58&descSize=22&descColor=e2e8f0" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hey+I'm+Anunay+Yadav+👋;Student+Developer+from+India;Building+Scholix+🚀;GSSOC+Contributor+⭐;Web+%2B+AI+%2B+ML+Explorer;Learning+by+building+cool+things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Hey+I'm+Anunay+Yadav;Student+Developer+from+India;Building+Scholix;GSSOC+Contributor;Web+%2B+AI+%2B+ML+Explorer" />
 
 </div>
 
@@ -24,51 +24,45 @@
 
 </p>
 
-<br>
 ---
 
 <div align="center">
 
-## ◈ &nbsp; About Me &nbsp; ◈
+# 👨‍💻 About Me
 
 </div>
 
-<table align="center" border="0">
+<table align="center">
 <tr>
-<td align="left" width="55%">
+
+<td width="55%">
 
 ### The Story So Far...
 
-It started with a simple HTML tag that made something appear on a blank screen — and I was **hooked**.
+It started with a simple HTML tag that made something appear on a blank screen — and I was hooked.
 
-Since then: CSS animations, JavaScript interactivity, AI curiosity, and now building Scholix — a real product I care about.
+Since then: CSS animations, JavaScript, AI curiosity and now building **Scholix**.
 
-I'm deep in **Web Development**, contributing to **Open Source** through GSSOC, and slowly pulling **AI/ML** into my world.
+I'm deep in **Web Development**, contributing through **GSSOC**, and slowly pulling **AI/ML** into my world.
 
-> *"I don't just want to use technology — I want to understand it, build with it, and someday shape it."*
+> *I don't just want to use technology — I want to understand it, build with it, and shape it.*
 
-🎯 Sharpening right now: **JavaScript · C++ · DSA · Backend Dev**
+🎯 Sharpening: **JavaScript · C++ · DSA · Backend**
 
-🌱 Next frontier: **Machine Learning · AI Automation · System Design**
-
-</td>
-<td align="center" width="45%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-
-<br/><br/>
-
-```js
-const anunay = {
-  from    : "Jaunpur, UP 🇮🇳",
-  building: "Scholix 🚀",
-  learning: ["C++", "ML", "Backend"],
-  loves   : ["Open Source", "AI", "Web"],
-  funFact : "debug > sleep 😅"
-};
-```
+🌱 Exploring: **Machine Learning · AI · System Design**
 
 </td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&width=450&lines=const+anunay+=+%7B;from:+Jaunpur,+UP;building:+Scholix;learning:+C%2B%2B,+ML,+Backend;loves:+Open+Source,+AI,+Web;%7D"/>
+
+</td>
+
 </tr>
 </table>
 
