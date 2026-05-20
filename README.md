@@ -172,41 +172,6 @@ A movie discovery and streaming platform built with a modern, clean UI and enhan
 
 </tr>
 </table>
-
----
-<div align="center">
-
-## ◈ &nbsp; GitHub Analytics &nbsp; ◈
-
-<table border="0" align="center">
-<tr>
-
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnunayYadav&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AnunayYadav&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" colspan="2">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnunayYadav&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-
-</td>
-
-</tr>
-</table>
-
-</div>
 ---
 
 <div align="center">
@@ -216,19 +181,6 @@ A movie discovery and streaming platform built with a modern, clean UI and enhan
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnunayYadav&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=FF6B35" width="100%" alt="Activity Graph"/>
 
 </div>
-
----
-
-<div align="center">
-
-## ◈ &nbsp; 3D Contribution Graph &nbsp; ◈
-
-<img src="https://raw.githubusercontent.com/AnunayYadav/AnunayYadav/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-
-<sub>⚙️ Auto-generated via GitHub Actions — setup instructions in comments below</sub>
-
-</div>
-
 ---
 
 <div align="center">
