@@ -25,7 +25,6 @@
 </p>
 
 ---
-
 <div align="center">
 
 # 👨‍💻 About Me
@@ -35,7 +34,7 @@
 <table align="center">
 <tr>
 
-<td width="55%">
+<td width="55%" valign="top">
 
 ### The Story So Far...
 
@@ -53,24 +52,31 @@ I'm deep in **Web Development**, contributing through **GSSOC**, and slowly pull
 
 </td>
 
-<td width="45%" align="center">
+<td width="45%" align="center" valign="top">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&width=450&lines=const+anunay+=+%7B;from:+Jaunpur,+UP;building:+Scholix;learning:+C%2B%2B,+ML,+Backend;loves:+Open+Source,+AI,+Web;%7D"/>
+<pre align="left">
+const anunay = {
+   from: "Jaunpur, UP 🇮🇳",
+   building: "Scholix 🚀",
+   learning: ["C++", "ML", "Backend"],
+   loves: ["Open Source", "AI", "Web"],
+   funFact: "Build > Watch tutorials 😄"
+}
+</pre>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 <div align="center">
 
-## ◈ &nbsp; Current Journey &nbsp; ◈
+# 🚀 Current Journey
 
 | 🌐 Domain | 🔥 What I'm Doing |
 |:---:|:---|
@@ -89,7 +95,7 @@ I'm deep in **Web Development**, contributing through **GSSOC**, and slowly pull
 ---
 <div align="center">
 
-## ◈ &nbsp; Tech Stack &nbsp; ◈
+# 🛠️ Tech Stack
 
 ### Languages & Web
 <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
@@ -114,7 +120,7 @@ I'm deep in **Web Development**, contributing through **GSSOC**, and slowly pull
 
 <div align="center">
 
-## ◈ &nbsp; Featured Projects &nbsp; ◈
+# 📚 Featured Projects
 
 </div>
 
@@ -176,7 +182,7 @@ A movie discovery and streaming platform built with a modern, clean UI and enhan
 
 <div align="center">
 
-## ◈ &nbsp; Contribution Activity &nbsp; ◈
+# 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnunayYadav&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=FF6B35" width="100%" alt="Activity Graph"/>
 
@@ -185,7 +191,7 @@ A movie discovery and streaming platform built with a modern, clean UI and enhan
 
 <div align="center">
 
-## ◈ &nbsp; Contribution Snake &nbsp; ◈
+# 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnunayYadav/AnunayYadav/output/github-contribution-grid-snake-dark.svg"/>
@@ -199,7 +205,7 @@ A movie discovery and streaming platform built with a modern, clean UI and enhan
 
 <div align="center">
 
-## ◈ &nbsp; Connect With Me &nbsp; ◈
+# 🌐 Connect With Me
 
 <sub>Open to collaborations, open source, or just talking tech.</sub>
 
